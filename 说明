@@ -1,0 +1,11 @@
+
+render 方法：
+
+    render(){
+        createElement()
+    }
+
+
+生命周期方法：
+
+computed
