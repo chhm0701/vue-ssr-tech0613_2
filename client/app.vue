@@ -1,5 +1,3 @@
-
-<!--测试 precommit-->
 <template>
     <div id="app">
         <div id="cover"></div>
