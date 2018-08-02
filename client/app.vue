@@ -1,4 +1,5 @@
 
+<!--测试 precommit-->
 <template>
     <div id="app">
         <div id="cover"></div>
@@ -39,7 +40,7 @@ export default {
         background-color: #999;
         opacity: 0.9;
         z-index: -1;
-    }  
+    }
 </style>
 
 
